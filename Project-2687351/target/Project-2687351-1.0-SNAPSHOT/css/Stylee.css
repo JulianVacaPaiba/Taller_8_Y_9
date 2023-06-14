@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);
+}
+.container{
+    background:linear-gradient(to left, #6FAAFF, #955DFF);
+    border-radius: 20px;
+    margin-top: 3%;
+    box-shadow:10px 9px 11px rgba(0, 0, 0, 0.2);
+    display:flex;
+    flex-direction:column;
+    overflow:hidden;
+    margin-bottom: 25px;
+}
+
+input,label{
+    height: 100px;
+}
+
