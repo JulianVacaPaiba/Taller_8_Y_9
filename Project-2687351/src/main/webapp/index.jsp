@@ -9,6 +9,6 @@
 </head>
 <body>
    <h1>my app</h1>
-   <a href="jsp/Login.jsp">Resgistrar Categoria</a> | <a href="Registros.jsp">Resgistrar Usuarios </a> | <a href="https://sena.edu.co">Sena</a> | <a href="Products.jsp">Resgistrar Productos</a> | <a href="Categories.jsp">Resgistrar Categoria</a>
+   <a href="jsp/Login.jsp">Login</a> | <a href="Registros.jsp">Resgistrar Usuarios </a> | <a href="https://sena.edu.co">Sena</a> | <a href="Products.jsp">Resgistrar Productos</a> | <a href="Categories.jsp">Resgistrar Categoria</a>
 </body>
 </html>
